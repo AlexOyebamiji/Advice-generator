@@ -11,8 +11,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: (https://alexoyebamiji.github.io/Advice-generator/)
-- Live Site URL: (https://alexoyebamiji.github.io/Advice-generator/)
+- Solution URL: (https://lex-advice-generator.netlify.app/)
+- Live Site URL: (https://lex-advice-generator.netlify.app/)
 
 ## My process
 
