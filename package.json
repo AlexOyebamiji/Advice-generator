@@ -4,7 +4,7 @@
   "description": "![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)",
   "main": "script.js",
   "scripts": {
-    "deploy": "gh-pages -d advice-generator-app-main"
+    "deploy": "gh-pages -d src"
   },
   "keywords": [],
   "author": "",
