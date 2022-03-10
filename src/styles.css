@@ -24,7 +24,7 @@
 .content {
   height: 60vh;
   width: 100%;
-  padding: 0 20px;
+  padding: 0 10px;
   border-radius: 15px;
   border: none;
   background-color: hsl(217, 19%, 24%);
@@ -66,9 +66,9 @@
   margin-right: auto;
 }
 
-@media screen and (min-width: 991px) {
+@media screen and (min-width: 768px) {
   .content {
     width: 70%;
-    height: 50vh;
+    padding: 0 10px;
   }
 }
